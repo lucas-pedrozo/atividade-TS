@@ -1,4 +1,4 @@
-type Computador = {
+ctype Computador = {
     armazenamento: number;
     memoriaRam: number;
     processador: string;
